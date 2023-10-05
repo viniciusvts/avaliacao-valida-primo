@@ -19,14 +19,14 @@ Licensed under CC BY 4.0 [Vinicius de Santana](https://github.com/viniciusvts)
 ```
 - O  arquivo [valida.php](valida.php) deverá usar a função criada em [validaprimo.php](validaprimo.php) para validar o número recebido
 
-> Checkpoint 1, caso queira parar por aqui faça um pull request na branch dev das suas alterações
+> Checkpoint 1, commit suas alterações, caso queira parar por aqui faça um pull request na branch dev das suas alterações
 
 ## Estilize o projeto
 Estilize o formulário criado em [index.css](index.css)
 
-> Checkpoint 2, caso queira parar por aqui faça um pull request na branch dev das suas alterações
+> Checkpoint 2, commit suas alterações, caso queira parar por aqui faça um pull request na branch dev das suas alterações
 
 ## Utilize ajax
 Altere [index.php](index.php)  para fazer a consulta em [validaprimo.php](validaprimo.php) por método ajax, utilize [index.js](index.js) para tal, exiba o resultado em um `alert()`
 
-> Avaliação terminada, faça um pull request na branch dev das suas alterações
+> Avaliação terminada, commit suas alterações, faça um pull request na branch dev das suas alterações
