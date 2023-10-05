@@ -1,5 +1,7 @@
 # Tarefa valida primo
-Essa é uma tarefa que avaliará sua proeficiência em conceitos basicos da web
+Essa é uma tarefa que avaliará a proeficiência em conceitos basicos da web
+
+Licensed under CC BY 4.0 [Vinicius de Santana](https://github.com/viniciusvts)
 
 ## Crie um formulário web
 - O arquivo [index.php](index.php) deverá conter um formulário que fará um post em [valida.php](valida.php).
