@@ -1,10 +1,8 @@
 <?php
-
 include 'validaprimo.php';
 
 if (isset($_POST['numero'])) {
     $numero = intval($_POST['numero']);
-
     $resultado = validaPrimo($numero);
 
     if ($resultado) {
