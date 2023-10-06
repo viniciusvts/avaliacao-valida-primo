@@ -7,13 +7,16 @@
     <link rel="stylesheet" href="/index.css">
 </head>
 <body>
-    <h1>Verifica se número é primo</h1>
+    <div class="container">
+    <h1 class="title">Verifica se número é primo</h1>
 
-    <form action="valida.php" method="post">
-        <label for="numero">Digite um número inteiro:</label>
-        <input type="number" id="numero" name="numero" required>
-        <button type="submit">Verificar Primo</button>
+    <form class="form" action="valida.php" method="post">
+        <label class="label" for="numero">Digite um número inteiro</label>
+        <input class="input" type="number" id="numero" name="numero" required>
+        <button class="button" type="submit">Verificar Primo</button>
     </form>
+
+    </div>
 
     <script src="/index.js"></script>
 </body>
